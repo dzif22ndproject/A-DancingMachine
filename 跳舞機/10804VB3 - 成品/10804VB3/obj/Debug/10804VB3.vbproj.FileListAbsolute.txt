@@ -1,0 +1,166 @@
+C:\Users\紫\Desktop\10804VB3\10804VB3\bin\Debug\10804VB3.exe.config
+C:\Users\紫\Desktop\10804VB3\10804VB3\bin\Debug\10804VB3.exe
+C:\Users\紫\Desktop\10804VB3\10804VB3\bin\Debug\10804VB3.pdb
+C:\Users\紫\Desktop\10804VB3\10804VB3\bin\Debug\10804VB3.xml
+C:\Users\紫\Desktop\10804VB3\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+C:\Users\紫\Desktop\10804VB3\10804VB3\obj\Debug\_10804VB3.Form1.resources
+C:\Users\紫\Desktop\10804VB3\10804VB3\obj\Debug\_10804VB3.Resources.resources
+C:\Users\紫\Desktop\10804VB3\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+C:\Users\紫\Desktop\10804VB3\10804VB3\obj\Debug\10804VB3.vbproj.CoreCompileInputs.cache
+C:\Users\紫\Desktop\10804VB3\10804VB3\obj\Debug\10804VB3.exe
+C:\Users\紫\Desktop\10804VB3\10804VB3\obj\Debug\10804VB3.xml
+C:\Users\紫\Desktop\10804VB3\10804VB3\obj\Debug\10804VB3.pdb
+D:\10804VB3\10804VB3\bin\Debug\10804VB3.exe.config
+D:\10804VB3\10804VB3\bin\Debug\10804VB3.exe
+D:\10804VB3\10804VB3\bin\Debug\10804VB3.pdb
+D:\10804VB3\10804VB3\bin\Debug\10804VB3.xml
+D:\10804VB3\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+D:\10804VB3\10804VB3\obj\Debug\_10804VB3.Form1.resources
+D:\10804VB3\10804VB3\obj\Debug\_10804VB3.Resources.resources
+D:\10804VB3\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+D:\10804VB3\10804VB3\obj\Debug\10804VB3.exe
+D:\10804VB3\10804VB3\obj\Debug\10804VB3.xml
+D:\10804VB3\10804VB3\obj\Debug\10804VB3.pdb
+F:\10804VB3\10804VB3\bin\Debug\10804VB3.exe.config
+F:\10804VB3\10804VB3\bin\Debug\10804VB3.exe
+F:\10804VB3\10804VB3\bin\Debug\10804VB3.pdb
+F:\10804VB3\10804VB3\bin\Debug\10804VB3.xml
+F:\10804VB3\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+F:\10804VB3\10804VB3\obj\Debug\_10804VB3.Form1.resources
+F:\10804VB3\10804VB3\obj\Debug\_10804VB3.Resources.resources
+F:\10804VB3\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+F:\10804VB3\10804VB3\obj\Debug\10804VB3.exe
+F:\10804VB3\10804VB3\obj\Debug\10804VB3.xml
+F:\10804VB3\10804VB3\obj\Debug\10804VB3.pdb
+E:\10804VB3\10804VB3\bin\Debug\10804VB3.exe.config
+E:\10804VB3\10804VB3\bin\Debug\10804VB3.exe
+E:\10804VB3\10804VB3\bin\Debug\10804VB3.pdb
+E:\10804VB3\10804VB3\bin\Debug\10804VB3.xml
+E:\10804VB3\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+E:\10804VB3\10804VB3\obj\Debug\_10804VB3.Form1.resources
+E:\10804VB3\10804VB3\obj\Debug\_10804VB3.Resources.resources
+E:\10804VB3\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+E:\10804VB3\10804VB3\obj\Debug\10804VB3.vbproj.CoreCompileInputs.cache
+E:\10804VB3\10804VB3\obj\Debug\10804VB3.exe
+E:\10804VB3\10804VB3\obj\Debug\10804VB3.xml
+E:\10804VB3\10804VB3\obj\Debug\10804VB3.pdb
+F:\10804VB3\10804VB3\obj\Debug\10804VB3.vbproj.CoreCompileInputs.cache
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\_10804VB3.Form1.resources
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\_10804VB3.Resources.resources
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.CoreCompileInputs.cache
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.exe
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.xml
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.pdb
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.exe.config
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.exe
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.pdb
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.xml
+F:\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.exe.config
+F:\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.exe
+F:\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.pdb
+F:\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.xml
+F:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+F:\10804VB3 - 複製\10804VB3\obj\Debug\_10804VB3.Form1.resources
+F:\10804VB3 - 複製\10804VB3\obj\Debug\_10804VB3.Resources.resources
+F:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+F:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.CoreCompileInputs.cache
+F:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.exe
+F:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.xml
+F:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.pdb
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.exe.config
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.exe
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.pdb
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.xml
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\_10804VB3.Form1.resources
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\_10804VB3.Resources.resources
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.CoreCompileInputs.cache
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.exe
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.xml
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.pdb
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\Interop.WMPLib.dll
+C:\Users\紫\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.ResolveComReference.cache
+E:\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.exe.config
+E:\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.exe
+E:\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.pdb
+E:\10804VB3 - 複製\10804VB3\bin\Debug\10804VB3.xml
+E:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+E:\10804VB3 - 複製\10804VB3\obj\Debug\Interop.WMPLib.dll
+E:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.ResolveComReference.cache
+E:\10804VB3 - 複製\10804VB3\obj\Debug\_10804VB3.Form1.resources
+E:\10804VB3 - 複製\10804VB3\obj\Debug\_10804VB3.Resources.resources
+E:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+E:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.CoreCompileInputs.cache
+E:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.exe
+E:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.xml
+E:\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.pdb
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\Interop.WMPLib.dll
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\10804VB3.vbproj.ResolveComReference.cache
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\_10804VB3.Form3.resources
+C:\Users\mom\Desktop\10804VB3 - 複製\10804VB3\obj\Debug\_10804VB3.Form4.resources
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.exe.config
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.exe
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.pdb
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.xml
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\Interop.WMPLib.dll
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.ResolveComReference.cache
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form1.resources
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form3.resources
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form4.resources
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Resources.resources
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.CoreCompileInputs.cache
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.exe
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.xml
+C:\Users\mom\Desktop\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.pdb
+E:\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.exe.config
+E:\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.exe
+E:\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.pdb
+E:\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.xml
+E:\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+E:\10804VB3 - 成品\10804VB3\obj\Debug\Interop.WMPLib.dll
+E:\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.ResolveComReference.cache
+E:\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form1.resources
+E:\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form3.resources
+E:\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form4.resources
+E:\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Resources.resources
+E:\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+E:\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.exe
+E:\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.xml
+E:\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.pdb
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.exe.config
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.exe
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.pdb
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.xml
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\Interop.WMPLib.dll
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.ResolveComReference.cache
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form1.resources
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form3.resources
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form4.resources
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Resources.resources
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.CoreCompileInputs.cache
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.exe
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.xml
+D:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.pdb
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.exe.config
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.exe
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.pdb
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\bin\Debug\10804VB3.xml
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbprojAssemblyReference.cache
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\Interop.WMPLib.dll
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.ResolveComReference.cache
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form1.resources
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form3.resources
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Form4.resources
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\_10804VB3.Resources.resources
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.GenerateResource.cache
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.vbproj.CoreCompileInputs.cache
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.exe
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.xml
+F:\社團博覽會\遊戲\A組\跳舞機\10804VB3 - 成品\10804VB3\obj\Debug\10804VB3.pdb
